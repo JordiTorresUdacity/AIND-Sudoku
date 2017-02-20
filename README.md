@@ -1,4 +1,3 @@
-# Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
 # Question 1 (Naked Twins)
@@ -22,13 +21,24 @@ Optionally, you can also install pygame if you want to see your visualization. I
 
 If not, please see how to download pygame [here](http://www.pygame.org/download.shtml).
 
-### Code
+### Code of this repository
 
 * `solutions.py` - You'll fill this in as part of your solution.
 * `solution_test.py` - Do not modify this. You can test your solution by running `python solution_test.py`.
 * `PySudoku.py` - Do not modify this. This is code for visualizing your solution.
 * `visualize.py` - Do not modify this. This is code for visualizing your solution.
 
+
+This code can be tested as follows:
+```
+$ source activate aind
+(aind) $ cd ~
+(aind) $ git clone https://github.com/JordiTorresUdacity/AIND-Sudoku.git
+(aind) $ cd aind-projects/sudoku
+(aind) $ python solution_test.py
+(aind) $ python solution.py
+
+```
 ### Visualizing
 
 To visualize your solution, please only assign values to the values_dict using the ```assign_values``` function provided in solution.py
