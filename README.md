@@ -32,9 +32,7 @@ If not, please see how to download pygame [here](http://www.pygame.org/download.
 This code can be tested as follows:
 ```
 $ source activate aind
-(aind) $ cd ~
 (aind) $ git clone https://github.com/JordiTorresUdacity/AIND-Sudoku.git
-(aind) $ cd aind-projects/sudoku
 (aind) $ python solution_test.py
 (aind) $ python solution.py
 
