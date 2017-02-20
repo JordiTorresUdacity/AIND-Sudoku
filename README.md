@@ -1,5 +1,5 @@
 ## Introductory Project: Diagonal Sudoku Solver
-
+aixo es una prova
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
 A: *Student should provide answer here*
