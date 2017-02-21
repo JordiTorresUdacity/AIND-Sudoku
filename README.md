@@ -30,6 +30,7 @@ This code can be tested as follows:
 ```
 $ source activate aind
 (aind) $ git clone https://github.com/JordiTorresUdacity/AIND-Sudoku.git
+(aind) $ cd AIND-Sudoku/
 (aind) $ python solution_test.py
 (aind) $ python solution.py
 
